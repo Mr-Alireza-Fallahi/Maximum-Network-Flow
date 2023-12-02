@@ -2,7 +2,6 @@
 #include <algorithm>  // for shuffle
 #include <queue>  // for priority queue
 #include <cmath>  // for abs
-#include <conio.h>  // for getch
 #include <iostream>
 
 using std::priority_queue;
@@ -188,5 +187,4 @@ Genetic::Genetic(Graph* given) :
 Genetic::~Genetic()
 {
 	cout << "Thanks for your Attention. Hope you enjoyed ...... \n\n\n";
-	_getch();
 }
