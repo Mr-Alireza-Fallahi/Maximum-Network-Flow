@@ -6,10 +6,6 @@
 
 1. Install cmake and a suitable compiler (MSVC for Windows and GCC for Linux and MacOS)
 2. Go to build folder 
-3. Run the command "cmake ../Source"
+3. Run the command "cmake .
 4. Build the generators (Use "make" command to Unix base systems and "msbuild ProjectName.sln" in Windows)
 5. Run the project (./Project)
-
-# Attention!!
-
-<p> The project was written in Visual Studio 2019 with MSVC. There Might be some run issues. Hope you help me fix them :) </p>
